@@ -20,7 +20,7 @@ public class ClosestNumber {
 		for (int i=0;i<n;i++) {
 			temp = arr[0];
 
-			if()
+			
 		}
 	}
 
