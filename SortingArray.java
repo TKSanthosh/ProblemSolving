@@ -17,11 +17,12 @@ public class SortingArray {
 				  if(arr[i]>arr[j]) {
 				 temp = arr[i];
 				 arr[i]= arr[j];
-				arr[j] = temp;}
+				arr[j] = temp;
+				}
 			  }
 		  }
 		  for(int i =0;i<a;i++) {
-			  System.out.print(arr[i]);
+			  System.out.print(arr[i]+" ");
 		  }
 
 	  }
